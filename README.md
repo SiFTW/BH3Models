@@ -1,0 +1,5 @@
+# BH3Models
+Modelling for Cloete et al BH3 Modeling paper
+
+### INSTRUCTIONS FOR RUNNING MODEL FILES, OBTAINING DATA AND GENERATING THE FIGURES. ### 
+...
