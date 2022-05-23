@@ -1,0 +1,166 @@
+Substrate,Products,Kinetic Law, Modifiers, Parameters
+DIS Bid,DIS_Bid,Mass Action Binding,,k1_1
+DIS_Bid,DIS Bid,Mass Action,,k1_2
+DIS_Bid,DIS tBid,Mass Action,,k1_3
+DIS Bim,DIS_Bim,Mass Action Binding,,k1_4
+DIS_Bim,DIS Bim,Mass Action,,k1_5
+DIS_Bim,DIS aBim,Mass Action,,k1_6
+DIS Puma,DIS_Puma,Mass Action Binding,,k1_7
+DIS_Puma,DIS Puma,Mass Action,,k1_8
+DIS_Puma,DIS aPuma,Mass Action,,k1_9
+DIS Noxa,DIS_Noxa,Mass Action Binding,,k1_10
+DIS_Noxa,DIS Noxa,Mass Action,,k1_11
+DIS_Noxa,DIS aNoxa,Mass Action,,k1_12
+tBid BclxLc,tBid_BclxLc,Mass Action Binding,,k1_13
+tBid_BclxLc,tBid BclxLc,Mass Action,,k1_14
+aBim BclxLc,aBim_BclxLc,Mass Action Binding,,k1_15
+aBim_BclxLc,aBim BclxLc,Mass Action,,k1_16
+aBim Bcl2c,aBim_Bcl2c,Mass Action Binding,,k1_17
+aBim_Bcl2c,aBim Bcl2c,Mass Action,,k1_18
+aBim Mcl1c,aBim_Mcl1c,Mass Action Binding,,k1_19
+aBim_Mcl1c,aBim Mcl1c,Mass Action,,k1_20
+aPuma BclxLc,aPuma_BclxLc,Mass Action Binding,,k1_21
+aPuma_BclxLc,aPuma BclxLc,Mass Action,,k1_22
+aPuma Bcl2c,aPuma_Bcl2c,Mass Action Binding,,k1_23
+aPuma_Bcl2c,aPuma Bcl2c,Mass Action,,k1_24
+aPuma Mcl1c,aPuma_Mcl1c,Mass Action Binding,,k1_25
+aPuma_Mcl1c,aPuma Mcl1c,Mass Action,,k1_26
+aNoxa Mcl1c,aNoxa_Mcl1c,Mass Action Binding,,k1_27
+aNoxa_Mcl1c,aNoxa Mcl1c,Mass Action,,k1_28
+Bax,MBax,Mass Action,,k1_29
+MBax,Bax,Mass Action,,k1_30
+tBid,tBidm,Mass Action,,k1_31
+tBidm,tBid,Mass Action,,k1_32
+aBim,mBim,Mass Action,,k1_33
+mBim,aBim,Mass Action,,k1_34
+aPuma,mPuma,Mass Action,,k1_35
+mPuma,aPuma,Mass Action,,k1_36
+BclxLc,BclxL,Mass Action,,k1_37
+BclxL,BclxLc,Mass Action,,k1_38
+Bcl2c,Bcl2,Mass Action,,k1_39
+Bcl2,Bcl2c,Mass Action,,k1_40
+Mcl1c,Mcl1,Mass Action,,k1_41
+Mcl1,Mcl1c,Mass Action,,k1_42
+MBax mBim,MBax_mBim,Mass Action Binding,,k1_43
+MBax_mBim,MBax mBim,Mass Action,,k1_44
+MBax_mBim,aBax mBim,Mass Action,,k1_45
+MBax tBidm,MBax_tBidm,Mass Action Binding,,k1_46
+MBax_tBidm,MBax tBidm,Mass Action,,k1_47
+MBax_tBidm,aBax tBidm,Mass Action,,k1_48
+MBax mPuma,MBax_mPuma,Mass Action Binding,,k1_49
+MBax_mPuma,MBax mPuma,Mass Action,,k1_50
+MBax_mPuma,aBax mPuma,Mass Action,,k1_51
+tBidm BclxL,tBidm_BclxL,Mass Action Binding,,k1_52
+tBidm_BclxL,tBidm BclxL,Mass Action,,k1_53
+mBim BclxL,mBim_BclxL,Mass Action Binding,,k1_54
+mBim_BclxL,mBim BclxL,Mass Action,,k1_55
+mBim Bcl2,mBim_Bcl2,Mass Action Binding,,k1_56
+mBim_Bcl2,mBim Bcl2,Mass Action,,k1_57
+mBim Mcl1,mBim_Mcl1,Mass Action Binding,,k1_58
+mBim_Mcl1,mBim Mcl1,Mass Action,,k1_59
+mPuma BclxL,mPuma_BclxL,Mass Action Binding,,k1_60
+mPuma_BclxL,mPuma BclxL,Mass Action,,k1_61
+mPuma Bcl2,mPuma_Bcl2,Mass Action Binding,,k1_62
+mPuma_Bcl2,mPuma Bcl2,Mass Action,,k1_63
+mPuma Mcl1,mPuma_Mcl1,Mass Action Binding,,k1_64
+mPuma_Mcl1,mPuma Mcl1,Mass Action,,k1_65
+aBax BclxL,aBax_BclxL,Mass Action Binding,,k1_66
+aBax_BclxL,aBax BclxL,Mass Action,,k1_67
+aBax Bcl2,aBax_Bcl2,Mass Action Binding,,k1_68
+aBax_Bcl2,aBax Bcl2,Mass Action,,k1_69
+aBax Mcl1,aBax_Mcl1,Mass Action Binding,,k1_70
+aBax_Mcl1,aBax Mcl1,Mass Action,,k1_71
+MBak tBidm,MBak_tBidm,Mass Action Binding,,k1_72
+MBak_tBidm,MBak tBidm,Mass Action,,k1_73
+MBak_tBidm,aBak tBidm,Mass Action,,k1_74
+MBak mBim,MBak_mBim,Mass Action Binding,,k1_75
+MBak_mBim,MBak mBim,Mass Action,,k1_76
+MBak_mBim,aBak mBim,Mass Action,,k1_77
+MBak mPuma,MBak_mPuma,Mass Action Binding,,k1_78
+MBak_mPuma,MBak mPuma,Mass Action,,k1_79
+MBak_mPuma,aBak mPuma,Mass Action,,k1_80
+aBak BclxL,aBak_BclxL,Mass Action Binding,,k1_81
+aBak_BclxL,aBak BclxL,Mass Action,,k1_82
+aBak Mcl1,aBak_Mcl1,Mass Action Binding,,k1_83
+aBak_Mcl1,aBak Mcl1,Mass Action,,k1_84
+aBax aBax,Bax2,Mass Action Binding,,k1_85
+Bax2,aBax aBax,Mass Action,,k1_86
+Bax2 Bax2,Bax4,Mass Action Binding,,k1_87
+Bax4,Bax2 Bax2,Mass Action,,k1_88
+aBak aBak,Bak2,Mass Action Binding,,k1_89
+Bak2,aBak aBak,Mass Action,,k1_90
+Bak2 Bak2,Bak4,Mass Action Binding,,k1_91
+Bak4,Bak2 Bak2,Mass Action,,k1_92
+Bax2 Mito,Bax2_Mito,Mass Action Binding,,k1_93
+Bax2_Mito,Bax2 Mito,Mass Action,,k1_94
+Bax2_Mito,AMito,Mass Action,,k1_95
+Bax4 Mito,Bax4_Mito,Mass Action Binding,,k1_96
+Bax4_Mito,Bax4 Mito,Mass Action,,k1_97
+Bax4_Mito,AMito,Mass Action,,k1_98
+Bak2 Mito,Bak2_Mito,Mass Action Binding,,k1_99
+Bak2_Mito,Bak2 Mito,Mass Action,,k1_100
+Bak2_Mito,AMito,Mass Action,,k1_101
+Bak4 Mito,Bak4_Mito,Mass Action Binding,,k1_102
+Bak4_Mito,Bak4 Mito,Mass Action,,k1_103
+Bak4_Mito,AMito,Mass Action,,k1_104
+,DIS,Exp 2 param,,k1_105 k2_eps
+DIS,,Mass Action,,k1_106
+,Bid,Exp 2 param,,k1_107 k2_eps
+Bid,,Mass Action,,k1_108
+,Bim,Exp 2 param,,k1_109 k2_eps
+Bim,,Mass Action,,k1_110
+,Puma,Exp 2 param,,k1_111 k2_eps
+Puma,,Mass Action,,k1_112
+,Noxa,Exp 2 param,,k1_113 k2_eps
+Noxa,,Mass Action,,k1_114
+,BclxLc,Exp 2 param 1 mod,Inhib_eff_BclxL,k1_115 k2_eps
+BclxLc,,Mass Action,,k1_116
+,BclxL,Exp 2 param 1 mod,Bcl2t,k1_117 k2_eps
+BclxL,,Mass Action,,k1_118
+,Bcl2c,Exp 2 param 1 mod,Inhib_eff_Bcl2,k1_119 k2_eps
+Bcl2c,,Mass Action,,k1_120
+,Bcl2,Exp 2 param 1 mod,Bcl2t,k1_121 k2_eps
+Bcl2,,Mass Action,,k1_122
+,Mcl1c,Exp 2 param 1 mod,Inhib_eff_Mcl1,k1_123 k2_eps
+Mcl1c,,Mass Action,,k1_124
+,Mcl1,Exp 2 param 1 mod,Bcl2t,k1_125 k2_eps
+Mcl1,,Mass Action,,k1_126
+AMito,Mito,Mass Action,,k1_127
+tBid_BclxLc,,Mass Action,,k1_128
+tBidm_BclxL,,Mass Action,,k1_129
+aBim_BclxLc,,Mass Action,,k1_130
+mBim_BclxL,,Mass Action,,k1_131
+aBim_Bcl2c,,Mass Action,,k1_132
+mBim_Bcl2,,Mass Action,,k1_133
+aBim_Mcl1c,,Mass Action,,k1_134
+mBim_Mcl1,,Mass Action,,k1_135
+aPuma_BclxLc,,Mass Action,,k1_136
+aPuma_Bcl2c,,Mass Action,,k1_137
+aPuma_Mcl1c,,Mass Action,,k1_138
+mPuma_BclxL,,Mass Action,,k1_139
+mPuma_Bcl2,,Mass Action,,k1_140
+mPuma_Mcl1,,Mass Action,,k1_141
+MBax_mPuma,,Mass Action,,k1_142
+MBax_mBim,,Mass Action,,k1_143
+MBax_tBidm,,Mass Action,,k1_144
+MBak_tBidm,,Mass Action,,k1_145
+MBak_mBim,,Mass Action,,k1_146
+MBak_mPuma,,Mass Action,,k1_147
+aBax_BclxL,,Mass Action,,k1_148
+aBax_Bcl2,,Mass Action,,k1_149
+aBax_Mcl1,,Mass Action,,k1_150
+aBak_BclxL,,Mass Action,,k1_151
+aBak_Mcl1,,Mass Action,,k1_152
+,Bax,Exp 2 param,,k1_153 k2_eps
+Bax,,Mass Action,,k1_154
+,MBak,Exp 2 param,,k1_155 k2_eps
+MBak,,Mass Action,,k1_156
+tBid,,Mass Action,,k1_157
+tBidm,,Mass Action,,k1_158
+aBim,,Mass Action,,k1_159
+mBim,,Mass Action,,k1_160
+aPuma,,Mass Action,,k1_161
+mPuma,,Mass Action,,k1_162
+aNoxa,,Mass Action,,k1_163
+aNoxa_Mcl1c,,Mass Action,,k1_164
+MBax,,Mass Action,,k1_165

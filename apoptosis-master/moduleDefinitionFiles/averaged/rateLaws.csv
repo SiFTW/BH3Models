@@ -1,0 +1,25 @@
+Rate Law Name, Rate law definition
+Mass Action,[s1] * {k1}
+Mass Action Modifier,[s1] * [mod1]
+Cdh1 exp equation,({k1} * {k2} * {k3} - [mod2])
+Cdh1 deg equation,({k2} * {k3} * {k4} * {k5} * {s1} * {k1} * {s1})
+IEP exp equation,{k1} * {k2} - [mod2])
+IEP deg equation,{k1} * {s1} * {k2} * {s1})
+Cdc20 exp equation,{k1} * {k2} - [mod1] + [mod2])
+Cdc20 deg equation,{k1} * {s1} * {k2} * {s1})
+E2F-Rb diss equation,{k1} * {k2} * {k3} * {k4} * {k5} * {s1}
+Mass Action Param Modifier,{k1} * [s1] * [mod]
+Mass gain reaction,{k1} * {k2} * [mod1]
+ERG exp reacion,{k1} * {k2} * {k3}^2)
+Exp basal plus mod,{k1} * {k2} * {k3} * [mod1])
+CycA exp,{k1} * {k2} * [mod1] * [mod2]
+Exp 2 param,{k1} * {k2}
+Exp 2 param 1 mod,{k1} * {k2} * [mod1]
+DRG exp reaction,{k1} * {k2} * {k3} * {k3} * {k4} * [mod2])
+cycB exp reaction,{k1} * {k2} * {k3} * {k4} * {k4}^2)))
+Rb phos,({k1} * {k3} * {k4} * {k5} * {k6} * {k2} * {k3} * {k3} * {k4} * {k5} * {k6} * {s1}
+E2F phos,({k1} * {k2} * {s1}
+Mass Action Binding,[s1] * [s2] * {k1}
+Mass Action Modifier V2,[s1] * {k1} * {k2} * {k3} * [mod2]
+Mass Action Modifier V6,[s1] * ({k1} * {k2} * {k3} * {k4} * {k5} * [mod3]))
+Mass Action Modifier V8,[s1] * ({k1} * {k2} * {k3} * {k4} * {k5}))
