@@ -1,0 +1,7 @@
+Substrate,Products,Kinetic Law,Modifiers,Parameters
+A B,AB,Mass Action Binding,,k_ABBinding
+AB,,Mass Action Deg,,k_ABDeg
+,A,Constant,,k_Aexp
+,B,Modifier Inhibition,"delay(AB,5)",vmax_B km_B
+A,,Mass Action Deg,,k_ABDeg
+B,,Mass Action Deg,,k_ABDeg

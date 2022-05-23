@@ -1,0 +1,5 @@
+Name,Definition
+Mass Action Binding,[S1]*[S2]*{k}
+Constant,{k}
+Mass Action Deg,[S1]*{k}
+Modifier Inhibition,{vmax}*1-([Mod1]/({km}+[Mod1]))
